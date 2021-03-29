@@ -1,0 +1,121 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "XinTian",
+    "children" : [ {
+      "name" : "3316-MainThread",
+      "children" : [ {
+        "name" : "test_login[{\"username\": \"\",\"password\": \"sdfsdfsdf\"}-{\n\"retcode\": 1,\n\"reason\": \"用户或者密码错误\"\n}]",
+        "uid" : "ed5474a5c2df9b29",
+        "parentUid" : "f795dcbcd1fa9e6438d608b2e061af3d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1596803249192,
+          "stop" : 1596803249259,
+          "duration" : 67
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'{\"username\": \"\",\"password\": \"sdfsdfsdf\"}'", "'{\n\"retcode\": 1,\n\"reason\": \"用户或者密码错误\"\n}'" ]
+      }, {
+        "name" : "test_login[{\"username\": \"auto\",\"password\": \"\"}-{\n\"retcode\": 1,\n\"reason\": \"用户或者密码错误\"\n}]",
+        "uid" : "19fda04c511274bd",
+        "parentUid" : "f795dcbcd1fa9e6438d608b2e061af3d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1596803249262,
+          "stop" : 1596803249324,
+          "duration" : 62
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'{\"username\": \"auto\",\"password\": \"\"}'", "'{\n\"retcode\": 1,\n\"reason\": \"用户或者密码错误\"\n}'" ]
+      }, {
+        "name" : "test_login[{\"username\": \"auto\",\"password\": \"sdfsdfsdf\"}-{\"retcode\": 0}]",
+        "uid" : "c16ebe6a0d826116",
+        "parentUid" : "f795dcbcd1fa9e6438d608b2e061af3d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1596803248982,
+          "stop" : 1596803249177,
+          "duration" : 195
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'{\"username\": \"auto\",\"password\": \"sdfsdfsdf\"}'", "'{\"retcode\": 0}'" ]
+      }, {
+        "name" : "test_login[{\"username\": \"\",\"password\": \"\"}-{\n\"retcode\": 1,\n\"reason\": \"用户或者密码错误\"\n}]",
+        "uid" : "619a5933f7721650",
+        "parentUid" : "f795dcbcd1fa9e6438d608b2e061af3d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1596803249327,
+          "stop" : 1596803249390,
+          "duration" : 63
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'{\"username\": \"\",\"password\": \"\"}'", "'{\n\"retcode\": 1,\n\"reason\": \"用户或者密码错误\"\n}'" ]
+      } ],
+      "uid" : "f795dcbcd1fa9e6438d608b2e061af3d"
+    }, {
+      "name" : "15108-MainThread",
+      "children" : [ {
+        "name" : "test_login[{\"username\": \"auto\",\"password\": \"\"}-{\n\"retcode\": 1,\n\"reason\": \"用户或者密码错误\"\n}]",
+        "uid" : "fd9e3416fc73c302",
+        "parentUid" : "9496ed4f9b540873cf33d8de56c4759f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1596803568545,
+          "stop" : 1596803568608,
+          "duration" : 63
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'{\"username\": \"auto\",\"password\": \"\"}'", "'{\n\"retcode\": 1,\n\"reason\": \"用户或者密码错误\"\n}'" ]
+      }, {
+        "name" : "test_login[{\"username\": \"\",\"password\": \"\"}-{\n\"retcode\": 1,\n\"reason\": \"用户或者密码错误\"\n}]",
+        "uid" : "6e616c82d800398e",
+        "parentUid" : "9496ed4f9b540873cf33d8de56c4759f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1596803568612,
+          "stop" : 1596803568675,
+          "duration" : 63
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'{\"username\": \"\",\"password\": \"\"}'", "'{\n\"retcode\": 1,\n\"reason\": \"用户或者密码错误\"\n}'" ]
+      }, {
+        "name" : "test_login[{\"username\": \"auto\",\"password\": \"sdfsdfsdf\"}-{\"retcode\": 0}]",
+        "uid" : "cfc8881bee232092",
+        "parentUid" : "9496ed4f9b540873cf33d8de56c4759f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1596803568232,
+          "stop" : 1596803568447,
+          "duration" : 215
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'{\"username\": \"auto\",\"password\": \"sdfsdfsdf\"}'", "'{\"retcode\": 0}'" ]
+      }, {
+        "name" : "test_login[{\"username\": \"\",\"password\": \"sdfsdfsdf\"}-{\n\"retcode\": 1,\n\"reason\": \"用户或者密码错误\"\n}]",
+        "uid" : "3d98334874ba954d",
+        "parentUid" : "9496ed4f9b540873cf33d8de56c4759f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1596803568474,
+          "stop" : 1596803568541,
+          "duration" : 67
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'{\"username\": \"\",\"password\": \"sdfsdfsdf\"}'", "'{\n\"retcode\": 1,\n\"reason\": \"用户或者密码错误\"\n}'" ]
+      } ],
+      "uid" : "9496ed4f9b540873cf33d8de56c4759f"
+    } ],
+    "uid" : "cd212aebca01a1e77438073738ffb722"
+  } ]
+}

@@ -1,0 +1,62 @@
+{
+  "uid" : "fd9e3416fc73c302",
+  "name" : "test_login[{\"username\": \"auto\",\"password\": \"\"}-{\n\"retcode\": 1,\n\"reason\": \"用户或者密码错误\"\n}]",
+  "fullName" : "test_case.test_login.TestLogin#test_login",
+  "historyId" : "fa8cac8d002d8650d7ae446dd9e20fc5",
+  "time" : {
+    "start" : 1596803568545,
+    "stop" : 1596803568608,
+    "duration" : 63
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "test_case"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "XinTian"
+  }, {
+    "name" : "thread",
+    "value" : "15108-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_case.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "body",
+    "value" : "'{\"username\": \"auto\",\"password\": \"\"}'"
+  }, {
+    "name" : "repsData",
+    "value" : "'{\n\"retcode\": 1,\n\"reason\": \"用户或者密码错误\"\n}'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fd9e3416fc73c302.json",
+  "parameterValues" : [ "'{\"username\": \"auto\",\"password\": \"\"}'", "'{\n\"retcode\": 1,\n\"reason\": \"用户或者密码错误\"\n}'" ]
+}

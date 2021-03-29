@@ -1,0 +1,81 @@
+[ {
+  "uid" : "fd9e3416fc73c302",
+  "name" : "test_login[{\"username\": \"auto\",\"password\": \"\"}-{\n\"retcode\": 1,\n\"reason\": \"用户或者密码错误\"\n}]",
+  "time" : {
+    "start" : 1596803568545,
+    "stop" : 1596803568608,
+    "duration" : 63
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "619a5933f7721650",
+  "name" : "test_login[{\"username\": \"\",\"password\": \"\"}-{\n\"retcode\": 1,\n\"reason\": \"用户或者密码错误\"\n}]",
+  "time" : {
+    "start" : 1596803249327,
+    "stop" : 1596803249390,
+    "duration" : 63
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c16ebe6a0d826116",
+  "name" : "test_login[{\"username\": \"auto\",\"password\": \"sdfsdfsdf\"}-{\"retcode\": 0}]",
+  "time" : {
+    "start" : 1596803248982,
+    "stop" : 1596803249177,
+    "duration" : 195
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cfc8881bee232092",
+  "name" : "test_login[{\"username\": \"auto\",\"password\": \"sdfsdfsdf\"}-{\"retcode\": 0}]",
+  "time" : {
+    "start" : 1596803568232,
+    "stop" : 1596803568447,
+    "duration" : 215
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ed5474a5c2df9b29",
+  "name" : "test_login[{\"username\": \"\",\"password\": \"sdfsdfsdf\"}-{\n\"retcode\": 1,\n\"reason\": \"用户或者密码错误\"\n}]",
+  "time" : {
+    "start" : 1596803249192,
+    "stop" : 1596803249259,
+    "duration" : 67
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "19fda04c511274bd",
+  "name" : "test_login[{\"username\": \"auto\",\"password\": \"\"}-{\n\"retcode\": 1,\n\"reason\": \"用户或者密码错误\"\n}]",
+  "time" : {
+    "start" : 1596803249262,
+    "stop" : 1596803249324,
+    "duration" : 62
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6e616c82d800398e",
+  "name" : "test_login[{\"username\": \"\",\"password\": \"\"}-{\n\"retcode\": 1,\n\"reason\": \"用户或者密码错误\"\n}]",
+  "time" : {
+    "start" : 1596803568612,
+    "stop" : 1596803568675,
+    "duration" : 63
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3d98334874ba954d",
+  "name" : "test_login[{\"username\": \"\",\"password\": \"sdfsdfsdf\"}-{\n\"retcode\": 1,\n\"reason\": \"用户或者密码错误\"\n}]",
+  "time" : {
+    "start" : 1596803568474,
+    "stop" : 1596803568541,
+    "duration" : 67
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
